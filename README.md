@@ -1,6 +1,6 @@
 # Healy API Web
 
-Bem-vindo ao **Healy API Web**! Esta é uma aplicação de API desenvolvida em C# que realiza operações CRUD (Criar, Ler, Atualizar, Excluir) para gerenciar recursos relacionados à saúde. O projeto segue uma abordagem monolítica e utiliza padrões de design como o Repository Pattern, o Service Layer e a Dependency Injection para garantir uma arquitetura modular, escalável e fácil de manter.
+Bem-vindo ao **Healy API Web**! Esta é uma aplicação de API desenvolvida em C# que realiza operações CRUD para gerenciar recursos relacionados à saúde. O projeto segue uma abordagem monolítica e utiliza padrões de design como o Repository Pattern, o Service Layer e a Dependency Injection para garantir uma arquitetura modular, escalável e fácil de manter.
 
 ## Abordagem Monolítica
 
