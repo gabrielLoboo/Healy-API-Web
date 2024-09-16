@@ -22,3 +22,28 @@ Para configurar e executar o projeto, siga as instruções abaixo:
 
 ```bash
 git clone https://github.com/gabrielLoboo/Healy-API-Web.git
+```
+
+### 2. Configurar Variaveis de Ambiente
+
+Configurar Variáveis de Ambiente
+
+```bash
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=mydatabase;User Id=myuser;Password=mypassword;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}
+```
+
+### 3. Executar aplicação
+
+```bash
+dotnet run
+```
