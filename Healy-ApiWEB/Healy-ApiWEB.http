@@ -1,0 +1,6 @@
+@Healy_ApiWEB_HostAddress = http://localhost:5137
+
+GET {{Healy_ApiWEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
