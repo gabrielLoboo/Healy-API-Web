@@ -26,7 +26,7 @@ git clone https://github.com/gabrielLoboo/Healy-API-Web.git
 
 ### 2. Configurar Variaveis de Ambiente
 
-Configurar Variáveis de Ambiente
+Configure as variáveis de ambiente necessárias, como a string de conexão com o banco de dados, no arquivo appsettings.json ou através das variáveis de ambiente do sistema.
 
 ```bash
 {
