@@ -1,3 +1,10 @@
+99708 - Gabriel Francisco Lobo
+552295 - MATHEUS FELIPE CAMARINHA DUARTE
+551401 - Ana Luiza Fontes Franco
+98672 - Mirelly Ribeiro Azevedo
+551856 - Beatriz Fon Ehnert de Santi
+
+
 # Healy API Web
 
 Bem-vindo ao **Healy API Web**! Esta é uma aplicação de API desenvolvida em C# que realiza operações CRUD para gerenciar recursos relacionados à saúde. O projeto segue uma abordagem monolítica e utiliza padrões de design como o Repository Pattern, o Service Layer e a Dependency Injection para garantir uma arquitetura modular, escalável e fácil de manter.
