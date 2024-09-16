@@ -13,3 +13,12 @@ Uma arquitetura monolítica simplifica o desenvolvimento inicial ao manter todos
 ### Manutenção Centralizada
 
 Manter uma aplicação monolítica pode ser mais direto do que gerenciar vários serviços distribuídos. Com uma única base de código, é mais fácil realizar atualizações, corrigir bugs e garantir a integridade dos dados.
+
+## Configuração do Projeto
+
+Para configurar e executar o projeto, siga as instruções abaixo:
+
+### 1. Clonar o Repositório
+
+```bash
+git clone https://github.com/gabrielLoboo/Healy-API-Web.git
