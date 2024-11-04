@@ -25,11 +25,13 @@ namespace Healy_ApiWEB.Models
 
     public class ProfissionalRecomendacao
     {
+        [KeyType(count: 1000)]
         [LoadColumn(0)]
-        public int PacienteId { get; set; }
+        public uint PacienteId { get; set; }
 
+        [KeyType(count: 500)] 
         [LoadColumn(1)]
-        public int ProfissionalId { get; set; } 
+        public uint ProfissionalId { get; set; }
 
         [LoadColumn(2)]
         public float Label { get; set; }

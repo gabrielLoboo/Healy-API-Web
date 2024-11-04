@@ -24,6 +24,8 @@ builder.Services.AddScoped<IExameRepository, ExameRepository>();
 builder.Services.AddScoped<IPacienteService, PacienteService>();
 builder.Services.AddScoped<IProfissionalService, ProfissionalService>();
 builder.Services.AddScoped<IExameService, ExameService>();
+builder.Services.AddScoped<RecomendacaoService>();
+
 
 builder.Services.AddHttpClient();
 
@@ -72,38 +74,26 @@ void TreinarModeloRecomendacao()
 {
     var mlContext = new MLContext();
 
-    IDataView trainingData = mlContext.Data.LoadFromTextFile<ProfissionalRecomendacao>("historico_profissionais.csv", separatorChar: ',', hasHeader: true);
+    IDataView trainingData = mlContext.Data.LoadFromTextFile<ProfissionalRecomendacao>(
+        "historico_profissionais.csv",
+        separatorChar: ',',
+        hasHeader: true
+    );
 
     var options = new MatrixFactorizationTrainer.Options
     {
-        MatrixColumnIndexColumnName = nameof(ProfissionalRecomendacao.ProfissionalId),
-        MatrixRowIndexColumnName = nameof(ProfissionalRecomendacao.PacienteId), 
-        LabelColumnName = nameof(ProfissionalRecomendacao.Label), 
+        MatrixColumnIndexColumnName = nameof(ProfissionalRecomendacao.PacienteId),
+        MatrixRowIndexColumnName = nameof(ProfissionalRecomendacao.ProfissionalId),
+        LabelColumnName = nameof(ProfissionalRecomendacao.Label),
         NumberOfIterations = 20,
         ApproximationRank = 100
     };
 
     var pipeline = mlContext.Recommendation().Trainers.MatrixFactorization(options);
 
-        var model = pipeline.Fit(trainingData);
+    var model = pipeline.Fit(trainingData);
 
     mlContext.Model.Save(model, trainingData.Schema, "modeloRecomendacaoProfissionais.zip");
-}
-
-if (!File.Exists("historico_profissionais.csv"))
-{
-    using (var stream = File.Create("historico_profissionais.csv"))
-    {
-        using (var writer = new StreamWriter(stream))
-        {
-
-            writer.WriteLine("PacienteId,ProfissionalId,Label");
-
-            writer.WriteLine("1,1,5");
-            writer.WriteLine("1,2,4");
-            writer.WriteLine("2,1,3");
-        }
-    }
 }
 
 if (!File.Exists("modeloRecomendacaoProfissionais.zip"))
