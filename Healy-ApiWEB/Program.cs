@@ -7,6 +7,10 @@ using Healy_ApiWEB.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.OpenApi.Models;
 using IdentityModel.Client;
+using Microsoft.ML;
+using System.IO;
+using Healy_ApiWEB.Models;
+using Microsoft.ML.Trainers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -63,6 +67,49 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+void TreinarModeloRecomendacao()
+{
+    var mlContext = new MLContext();
+
+    IDataView trainingData = mlContext.Data.LoadFromTextFile<ProfissionalRecomendacao>("historico_profissionais.csv", separatorChar: ',', hasHeader: true);
+
+    var options = new MatrixFactorizationTrainer.Options
+    {
+        MatrixColumnIndexColumnName = nameof(ProfissionalRecomendacao.ProfissionalId),
+        MatrixRowIndexColumnName = nameof(ProfissionalRecomendacao.PacienteId), 
+        LabelColumnName = nameof(ProfissionalRecomendacao.Label), 
+        NumberOfIterations = 20,
+        ApproximationRank = 100
+    };
+
+    var pipeline = mlContext.Recommendation().Trainers.MatrixFactorization(options);
+
+        var model = pipeline.Fit(trainingData);
+
+    mlContext.Model.Save(model, trainingData.Schema, "modeloRecomendacaoProfissionais.zip");
+}
+
+if (!File.Exists("historico_profissionais.csv"))
+{
+    using (var stream = File.Create("historico_profissionais.csv"))
+    {
+        using (var writer = new StreamWriter(stream))
+        {
+
+            writer.WriteLine("PacienteId,ProfissionalId,Label");
+
+            writer.WriteLine("1,1,5");
+            writer.WriteLine("1,2,4");
+            writer.WriteLine("2,1,3");
+        }
+    }
+}
+
+if (!File.Exists("modeloRecomendacaoProfissionais.zip"))
+{
+    TreinarModeloRecomendacao();
+}
 
 if (app.Environment.IsDevelopment())
 {

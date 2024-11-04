@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.ML.Data;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Healy_ApiWEB.Models
@@ -19,5 +21,22 @@ namespace Healy_ApiWEB.Models
 
         [Required(ErrorMessage = "A Área de atuação é obrigatória")]
         public string AreaAtuacao { get; set; }
+    }
+
+    public class ProfissionalRecomendacao
+    {
+        [LoadColumn(0)]
+        public int PacienteId { get; set; }
+
+        [LoadColumn(1)]
+        public int ProfissionalId { get; set; } 
+
+        [LoadColumn(2)]
+        public float Label { get; set; }
+    }
+
+    public class ProfissionalPrediction
+    {
+        public float Score { get; set; } 
     }
 }

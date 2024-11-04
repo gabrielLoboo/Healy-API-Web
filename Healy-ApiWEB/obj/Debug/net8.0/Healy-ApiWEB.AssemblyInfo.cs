@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Healy-ApiWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c49b28afef3dbc5bde5b52903826c2613cdf9783")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919b25eb1c666c466f7ed2e1dafaa2e64f56e0d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Healy-ApiWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Healy-ApiWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
