@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Healy-ApiWEB.csproj": {}
+    "C:\\Users\\Gabriel\\Source\\Repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Healy-ApiWEB.csproj": {
+    "C:\\Users\\Gabriel\\Source\\Repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Healy-ApiWEB.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Source\\Repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.csproj",
         "projectName": "Healy-ApiWEB",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Healy-ApiWEB.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Source\\Repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Source\\Repos\\Healy-API-Web\\Healy-ApiWEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"

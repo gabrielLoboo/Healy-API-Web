@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Healy_ApiWEB.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Healy_ApiWEB.Controllers.ExamesController",
     "Method": "Get",
     "RelativePath": "api/Exames",

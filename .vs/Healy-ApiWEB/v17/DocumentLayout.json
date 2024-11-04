@@ -1,86 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\controllers\\examescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\examescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\repository\\implementations\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\implementations\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\iprofissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\iprofissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\iexameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\iexameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\implementations\\exameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\exameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\implementations\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\services\\implementations\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\repository\\iprofissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\iprofissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\repository\\iexamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\iexamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\repository\\implementations\\examerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\implementations\\examerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\models\\exame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\models\\exame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-apiweb\\healy-apiweb\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\controllers\\examescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\examescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\healy-apiweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\healy-apiweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\implementations\\exameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\exameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\iexameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\iexameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\repository\\implementations\\examerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\implementations\\examerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\repository\\implementations\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\implementations\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\iprofissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\iprofissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\implementations\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\services\\implementations\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\services\\implementations\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\repository\\iprofissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\iprofissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\repository\\iexamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\iexamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|c:\\users\\gabriel\\source\\repos\\healy-api-web\\healy-apiweb\\models\\exame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78857FE9-1650-41C3-BE97-A5EB8D04DF5E}|Healy-ApiWEB\\Healy-ApiWEB.csproj|solutionrelative:healy-apiweb\\models\\exame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,24 +106,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\appsettings.json",
-              "RelativeDocumentMoniker": "Healy-ApiWEB\\appsettings.json",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\appsettings.json",
-              "RelativeToolTip": "Healy-ApiWEB\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T05:30:32.749Z",
+              "DocumentIndex": 6,
+              "Title": "Healy-ApiWEB.http",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.http",
+              "RelativeDocumentMoniker": "Healy-ApiWEB\\Healy-ApiWEB.http",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Healy-ApiWEB.http",
+              "RelativeToolTip": "Healy-ApiWEB\\Healy-ApiWEB.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-04T03:51:57.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "Healy-ApiWEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\appsettings.json",
+              "RelativeToolTip": "Healy-ApiWEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T03:14:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Healy-ApiWEB\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Healy-ApiWEB\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwCMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:46:08.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PacientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\PacientesController.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Controllers\\PacientesController.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\PacientesController.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Controllers\\PacientesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ProfissionaisController.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Controllers\\ProfissionaisController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExamesController.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\ExamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\ExamesController.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Controllers\\ExamesController.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Controllers\\ExamesController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Controllers\\ExamesController.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Controllers\\ExamesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T03:40:52.512Z",
               "EditorCaption": ""
@@ -152,22 +186,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Program.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Program.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T03:31:57.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ProfissionalService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\Implementations\\ProfissionalService.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAkwBEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "PacienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\Implementations\\PacienteService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ExameService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\Implementations\\ExameService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "IProfissionalService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IProfissionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IProfissionalService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\IProfissionalService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IProfissionalService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IProfissionalService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\IProfissionalService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IExameService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IExameService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IExameService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\IExameService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IExameService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IExameService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\IExameService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +262,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IPacienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IPacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IPacienteService.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Services\\IPacienteService.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Services\\IPacienteService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Services\\IPacienteService.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Services\\IPacienteService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,37 +275,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "PacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Repository\\Implementations\\PacienteRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABLwBAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T02:35:55.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "ExameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Repository\\Implementations\\ExameRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T02:35:41.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IExameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IExameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IExameRepository.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Repository\\IExameRepository.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IExameRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IExameRepository.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Repository\\IExameRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "IProfissionalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Repository\\IProfissionalRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "IPacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Repository\\IPacienteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -306,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Data\\DataContext.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Exame.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Exame.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Exame.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Models\\Exame.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Exame.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Exame.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Models\\Exame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "Profissional.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Profissional.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Models\\Profissional.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Profissional.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Profissional.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Models\\Profissional.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
               "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "Healy-ApiWEB\\Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-ApiWEB\\Healy-ApiWEB\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Healy-API-Web\\Healy-ApiWEB\\Models\\Paciente.cs",
               "RelativeToolTip": "Healy-ApiWEB\\Models\\Paciente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

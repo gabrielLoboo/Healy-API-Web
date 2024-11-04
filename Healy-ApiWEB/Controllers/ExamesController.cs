@@ -1,5 +1,6 @@
 ﻿using Healy_ApiWEB.Models;
 using Healy_ApiWEB.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Healy_ApiWEB.Controllers
@@ -16,6 +17,7 @@ namespace Healy_ApiWEB.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Get() => Ok(_exameService.GetAllExames());
 
         [HttpGet("{id}")]
