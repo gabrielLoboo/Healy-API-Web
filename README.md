@@ -44,6 +44,10 @@ Configure as variáveis de ambiente necessárias, como a string de conexão com 
   "ConnectionStrings": {
     "DefaultConnection": "Server=localhost;Database=mydatabase;User Id=myuser;Password=mypassword;"
   },
+  "Auth0": {
+    "Domain": "dev-b42rnz5hakwo5p2s.us.auth0.com",
+    "Audience": "healy-auth"
+  },
   "Logging": {
     "LogLevel": {
       "Default": "Information",
@@ -58,3 +62,20 @@ Configure as variáveis de ambiente necessárias, como a string de conexão com 
 ```bash
 dotnet run
 ```
+
+### Autenticação JWT Token com Auth0
+
+Para autenticação de usuários, o Healy API Web utiliza JSON Web Tokens (JWT) com o provedor de autenticação externo Auth0. Esta integração com o Auth0 permite uma autenticação segura e gerenciada, mantendo o controle de acesso à API de forma robusta e escalável.
+
+### Testes, Práticas de Clean Code e IA Generativa
+
+# Práticas de Clean Code
+Seguindo os princípios de Clean Code, o projeto foi estruturado para:
+
+1. Segregação de Responsabilidades: Divisão clara entre repositórios e serviços, o que facilita a manutenção e o entendimento do código.
+2. Nomenclatura Descritiva: Métodos e classes foram nomeados de forma a descrever seu propósito, melhorando a legibilidade.
+3. Injeção de Dependências: Uso extensivo de injeção de dependência para reduzir o acoplamento e facilitar a testabilidade.
+
+# Funcionalidades de IA Generativa
+
+A API incorpora Inteligência Artificial Generativa para a recomendação de profissionais da saúde. Utilizando ML.NET, o modelo de recomendação foi treinado com dados históricos e implementado para sugerir profissionais baseados em interações anteriores.
