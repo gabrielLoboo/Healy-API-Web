@@ -67,8 +67,6 @@ dotnet run
 
 Para autenticação de usuários, o Healy API Web utiliza JSON Web Tokens (JWT) com o provedor de autenticação externo Auth0. Esta integração com o Auth0 permite uma autenticação segura e gerenciada, mantendo o controle de acesso à API de forma robusta e escalável.
 
-### Testes, Práticas de Clean Code e IA Generativa
-
 # Práticas de Clean Code
 Seguindo os princípios de Clean Code, o projeto foi estruturado para:
 
